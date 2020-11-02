@@ -1,0 +1,296 @@
+
+body {
+   background: #242582 url("it3.jpg") no-repeat;
+   background-size: 100% 300px;
+    /*background-attachment: fixed;*/
+   background-position: right 1.8em;
+  
+
+   
+}
+div{
+  margin: 0;
+
+}
+h1{
+  padding:0;
+  margin: 0;
+}
+
+.Nav a{
+  
+}
+.wioacontainer {
+
+  display: flex;
+   justify-content: flex-end;
+   flex-wrap:  wrap;
+  /*flex-wrap: wrap;*/
+    /*margin: 0 auto;*/
+    width:100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+ .space{
+ 
+  margin-top: 5em;
+  margin-bottom: auto;
+  margin-left: 25em;
+  margin-right: auto;
+  
+ 
+  
+  
+  color:white;
+}
+.wioacontainer header nav{
+  margin-top:0;
+}
+.wioacontainer header nav a{
+   padding-right: 1.5em;
+   
+    
+    
+   /* border: 1px solid lightgray;*/
+    
+    /*display: inline-block;*/
+   /* border-radius: 20px;*/
+    color: white;
+    /*text-decoration: none;*/
+    /*margin-bottom: 20px;*/
+    /*======= create a background property. Set the value to #F87B99 */
+   /* background-color: blue;*/
+   text-decoration: none;
+   font-size: 1.2em;
+   
+}
+
+    .wioacontainer header nav a:hover {
+        /*======= create a background property and set it to white.  Then create a color property and set it's value to pink. */
+        background-color: 2f2fa2;
+        color:#f65c72;
+    }
+ 
+
+
+.itimage2{
+    width:auto;
+    /*display:flex;*/
+    color:white;
+    margin-left: 7em;
+    display: flex;
+    font-size: 20px;
+    font-family: 'Electrolize', sans-serif;
+
+}
+.itimage2 h2{
+  color:darkblue;
+  font-family: 'Audiowide', cursive;
+
+}
+.itimage2 a{
+  margin-top: 22em;
+  background-color:#242582;
+  color:#f65c72;
+   width: 7em;
+   text-decoration: none;
+   height: 2.5em;
+   border: solid orangered;
+   text-align: center;
+   margin-left: -32em;
+   
+  
+  
+}
+.it {
+    padding: 0px 0px 0px 25px;;
+    height: 150px;
+    width: 500px;
+    margin-left: 15em;
+    margin-top:-4em;
+}
+.it2 {
+    height: 300px;
+    width: 500px;
+   
+    margin-left: 10em;
+    margin-top: 12em;
+}
+.wrapper{
+  display: flex;
+}
+.MissionStatment{
+  color:#2f2fa2;
+  margin-left:1em;
+  margin-top: 3.4em;
+  /*color: black;*/
+  font-size: 50px;
+  margin-bottom: 0;
+  padding: 0;
+  font-family: 'Monoton', cursive;
+  
+
+}
+.ms{
+    /*display:flex;*/
+    font-family: 'Grandstander', cursive;
+    margin-left: -22.5em;
+    color:white;
+    font-size: 25px;
+    margin-top: 8.3em;
+   
+}
+.contact-section {
+   width: 100%;
+
+    border-top: 2px dashed #2f2fa2;
+    margin-top: 2em;
+    text-align: center;
+
+}
+.contact-section h2{
+  
+}
+address {
+    line-height: 2;
+    /*margin: 0 0 0 800px;*/
+    color:white;
+}
+footer {
+    width: 100%;
+    background-color:#2f2fa2;
+    border-top: 1px dashed white;
+   
+}
+    .content {
+        /*margin: 0 auto;*/
+        /*======= create a width property. Set the value to 600px */
+        width:100%;
+         
+ 
+    }
+
+        .content h3 {
+         
+           text-align: center;
+           
+        }
+
+    footer nav {
+      display: flex;
+     
+      
+    }
+
+
+footer nav a {
+    
+    padding: 1em;
+    color: white;
+    text-decoration: underline;
+    margin-left: 35%;
+    margin-right: -35%;
+
+}
+
+
+footer nav a:first-child {
+ 
+ 
+}
+
+/*======= Create a hover state for the anchor tag in the footer nav to have the following styles:
+  color: white;
+*/
+footer a:hover {
+    color: white;
+}
+.name h1{
+    color:darkblue;
+     font-family: 'Audiowide', cursive;
+}
+.name{
+margin-top: 10%;
+   
+}
+.vr {
+    border: double darkblue;
+}
+.objective{
+  color:white;
+}
+.objective h1{
+    color: darkblue;
+     font-family: 'Audiowide', cursive;
+}
+.skills{
+  font-family: 'Electrolize', sans-serif;
+  color:white;
+}
+.skills h1 {
+    color: darkblue;
+     font-family: 'Audiowide', cursive;
+}
+
+.skills h2{
+    color:blueviolet;
+     font-family: 'Audiowide', cursive;
+
+}
+.space2{
+    color:cyan;
+
+}
+.edu{
+  font-family: 'Electrolize', sans-serif;
+  color:white;
+}
+.edu h1{
+    color:darkblue;
+     font-family: 'Audiowide', cursive;
+}
+.exp{
+  font-family: 'Electrolize', sans-serif;
+  color:white;
+}
+.exp h1 {
+    color:darkblue;
+     font-family: 'Audiowide', cursive;
+}
+.exp h2 {
+    color: blueviolet;
+     font-family: 'Audiowide', cursive;
+} 
+
+.spacer{
+  margin-top: 150px;
+  background-color: gainsboro;
+  width: 19.5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.it4{
+  margin-left: 57em;
+
+}
+.spacer2{
+   margin-top: 100px;
+
+}
+
+.projectlisting{
+  margin-top: 20em;
+  margin-left: 55em;
+}
+form{
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  width: 350px; padding: 10px;
+}
+label { float: left; clear: left;
+	    display: block; width: 100px; 
+	    
+	    padding-right: 10px;
+}
